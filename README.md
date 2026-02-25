@@ -4,6 +4,8 @@ Why shorten links when you can make them **unreasonably long**?
 
 A Next.js app that takes any URL and turns it into an absurdly long redirect link — because sometimes you just want to make someone's day slightly worse.
 
+[Live Demo](https://longerthannecessary.vercel.app)
+
 ## How It Works
 
 Paste a URL, pick a severity mode, and get back a deeply nested redirect link that resolves back to the original destination.
